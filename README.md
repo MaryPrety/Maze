@@ -1,5 +1,6 @@
 # Все картинки 
-**Спрайты**  
+## Спрайты
+
 ![broken_heart](https://github.com/user-attachments/assets/c776f74b-b734-4f24-9204-4a15c8ffa66a)
 ![heart0](https://github.com/user-attachments/assets/1e0e7fa1-f0f3-4c79-8842-a4d470fb1f43)
 ![player_cry](https://github.com/user-attachments/assets/8bdac5dd-3043-4e57-8fe7-54c4877bb56d)
@@ -11,7 +12,8 @@
 ![spirit](https://github.com/user-attachments/assets/89f79802-d070-430a-977a-5e417ae8aa85)
 ![slow_spirit](https://github.com/user-attachments/assets/7df7902f-4616-48ea-8150-5730fccbaca1)
 ![teleport_spirit](https://github.com/user-attachments/assets/b53f5274-a1f8-4538-8f6e-99f53a5a866d)
-**Скримеры** 
+
+## Скримеры
 ![scream1](https://github.com/user-attachments/assets/e3add1f0-9631-4938-9f79-f2ebb2074f66)
 ![scream2](https://github.com/user-attachments/assets/a1d5f456-8e49-48b5-88cc-0f07f99ef527)
 ![scream3](https://github.com/user-attachments/assets/c97811d4-1fd5-4433-9d71-61d500dc5cc6)
